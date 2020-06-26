@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>My TodoList</title>
+    <meta content="initial-scale=1,maximum-scale=1,user-scalable=no,width=device-width" name="viewport" />
+    <link rel="stylesheet" href="TodoMVC.css">
+    <script src="model.js"></script>
+    <script src="provider.js"></script>
+    <script src="TodoMVC.js"></script>
+</head>
+
+<body>
+
+    <div id="head">
+        <h1>ToDo List</h1>
+    </div>
+
+    <div class="input">
+        <span class="toggle-all">&#9660</span>
+        <input id="input-content" type="text" autofocus="autofocus">
+        <button id="add">&#10010</button>
+    </div>
+
+
+    <div id="todo-list">
+
+    </div>
+
+    <div id="count-line">
+        <span class="todo-count">0 items left</span>
+        <button class="clear-completed"><label>Clear Completed</label></button>
+
+
+    </div>
+
+    <footer class="footer">
+
+        <ul class="filters">
+            <li><a class="selected">All</a></li>
+            <li><a class="">Urgent</a></li>
+            <li><a class="">Active</a></li>
+            <li><a class="">Completed</a></li>
+
+        </ul>
+    </footer>
+
+
+</body>
+
+</html>
