@@ -12,6 +12,8 @@ github仓库地址：https://github.com/Easonrust/Web-Progamming-Final-Homework
 
 部署地址：http://123.57.151.44:8090
 
+原始git地址：https://github.com/Easonrust/Script-Programming/tree/master/project
+
 <img src="https://tva1.sinaimg.cn/large/007S8ZIlly1gg5t49z75fj30ke104wgi.jpg" alt="image-20200626170657181" style="zoom: 33%;" />
 
 ## 2. 功能
