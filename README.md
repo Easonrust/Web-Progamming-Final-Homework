@@ -12,6 +12,7 @@ github仓库地址：https://github.com/Easonrust/Web-Progamming-Final-Homework
 
 部署地址：http://123.57.151.44:8090
 
+原始git地址：https://github.com/Easonrust/Script-Programming/tree/master/project
 <img src="https://tva1.sinaimg.cn/large/007S8ZIlly1gg5t49z75fj30ke104wgi.jpg" alt="image-20200626170657181" style="zoom: 33%;" />
 
 ## 2. 功能
@@ -35,3 +36,33 @@ github仓库地址：https://github.com/Easonrust/Web-Progamming-Final-Homework
 ## 4. 参考代码
 
 - [TodoMVC](https://github.com/luics/web-dev/tree/master/examples/TodoMVC) by [@luics](https://github.com/luics)
+<<<<<<< HEAD
+
+## 5. 功能展示
+
+- 长按编辑
+
+  <img src="/Users/leyang/Library/Application Support/typora-user-images/image-20200627164231697.png" alt="image-20200627164231697"  />
+
+- 左滑删除
+
+  <img src="/Users/leyang/Library/Application Support/typora-user-images/image-20200627164323422.png" alt="image-20200627164323422"  />
+
+- 右滑显示日期
+
+  ![image-20200627164749853](/Users/leyang/Library/Application Support/typora-user-images/image-20200627164749853.png)
+
+- urgent 标记
+
+   <img src="/Users/leyang/Library/Application Support/typora-user-images/image-20200627164414374.png" alt="image-20200627164414374"  />
+
+- 检测列表为空提示信息
+
+  ![image-20200627164845150](/Users/leyang/Library/Application Support/typora-user-images/image-20200627164845150.png)
+
+- 批量添加
+
+  ![image-20200627164943643](/Users/leyang/Library/Application Support/typora-user-images/image-20200627164943643.png)![image-20200627165016766](/Users/leyang/Library/Application Support/typora-user-images/image-20200627165016766.png)
+
+=======
+>>>>>>> 4fa2ee8734038c42931eabcb78b80f8eaa5c26b3
