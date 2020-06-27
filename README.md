@@ -50,7 +50,7 @@ github仓库地址：https://github.com/Easonrust/Web-Progamming-Final-Homework
 
 - 右滑显示日期
 
-  ![image-20200627164749853](https://tva1.sinaimg.cn/large/007S8ZIlly1gg6ybbrhi9j30fa0rgjtn.jpg)
+  <img src="https://tva1.sinaimg.cn/large/007S8ZIlly1gg6ybbrhi9j30fa0rgjtn.jpg" alt="image-20200627164749853" style="zoom:132%;" />
 
 - urgent 标记
 
