@@ -37,7 +37,6 @@ github仓库地址：https://github.com/Easonrust/Web-Progamming-Final-Homework
 ## 4. 参考代码
 
 - [TodoMVC](https://github.com/luics/web-dev/tree/master/examples/TodoMVC) by [@luics](https://github.com/luics)
-<<<<<<< HEAD
 
 ## 5. 功能展示
 
@@ -64,6 +63,3 @@ github仓库地址：https://github.com/Easonrust/Web-Progamming-Final-Homework
 - 批量添加
 
   ![image-20200627164943643](/Users/leyang/Library/Application Support/typora-user-images/image-20200627164943643.png)![image-20200627165016766](/Users/leyang/Library/Application Support/typora-user-images/image-20200627165016766.png)
-
-=======
->>>>>>> 4fa2ee8734038c42931eabcb78b80f8eaa5c26b3
