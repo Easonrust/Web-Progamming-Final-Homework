@@ -42,24 +42,24 @@ github仓库地址：https://github.com/Easonrust/Web-Progamming-Final-Homework
 
 - 长按编辑
 
-  <img src="/Users/leyang/Library/Application Support/typora-user-images/image-20200627164231697.png" alt="image-20200627164231697"  />
+  <img src="https://tva1.sinaimg.cn/large/007S8ZIlly1gg6yb41pzfj30ke10e405.jpg" alt="image-20200627164231697"  />
 
 - 左滑删除
 
-  <img src="/Users/leyang/Library/Application Support/typora-user-images/image-20200627164323422.png" alt="image-20200627164323422"  />
+  <img src="https://tva1.sinaimg.cn/large/007S8ZIlly1gg6yb5byu9j30ka0zsmyq.jpg" alt="image-20200627164323422"  />
 
 - 右滑显示日期
 
-  ![image-20200627164749853](/Users/leyang/Library/Application Support/typora-user-images/image-20200627164749853.png)
+  ![image-20200627164749853](https://tva1.sinaimg.cn/large/007S8ZIlly1gg6ybbrhi9j30fa0rgjtn.jpg)
 
 - urgent 标记
 
-   <img src="/Users/leyang/Library/Application Support/typora-user-images/image-20200627164414374.png" alt="image-20200627164414374"  />
+   <img src="https://tva1.sinaimg.cn/large/007S8ZIlly1gg6ybf4lmlj30k6104q4g.jpg" alt="image-20200627164414374"  />
 
 - 检测列表为空提示信息
 
-  ![image-20200627164845150](/Users/leyang/Library/Application Support/typora-user-images/image-20200627164845150.png)
+  ![image-20200627164845150](https://tva1.sinaimg.cn/large/007S8ZIlly1gg6ybiehoaj30k6102q4f.jpg)
 
 - 批量添加
 
-  ![image-20200627164943643](/Users/leyang/Library/Application Support/typora-user-images/image-20200627164943643.png)![image-20200627165016766](/Users/leyang/Library/Application Support/typora-user-images/image-20200627165016766.png)
+  ![image-20200627164943643](https://tva1.sinaimg.cn/large/007S8ZIlly1gg6ybm0jy9j30ke104dho.jpg)![image-20200627165016766](https://tva1.sinaimg.cn/large/007S8ZIlly1gg6ybpwo5tj30k8102jti.jpg)
